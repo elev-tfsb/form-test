@@ -1,5 +1,5 @@
-import { Button, Checkbox, Label, TextInput } from "flowbite-react";
-import Link from "next/link";
+// import { Button, Checkbox, Label, TextInput } from "flowbite-react";
+// import Link from "next/link";
 import './form.scss'
 
 export default function Form() {
